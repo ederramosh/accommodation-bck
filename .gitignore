@@ -1,0 +1,19 @@
+# Composer
+/vendor/
+composer.lock
+
+# Configuración de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos temporales / caché
+/.idea/
+/.vscode/
+/node_modules/
+/*.log
+*.cache
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
